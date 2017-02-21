@@ -1,0 +1,22 @@
+-x
+objective-c
+-arch
+arm64
+-std=c99
+-gmodules
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk
+-miphoneos-version-min=8.0
+-g
+-fvisibility=hidden
+-iquote
+-iquote
+-I/Volumes/RamDisk/beMQTTDemo/beMQTTDemo/DerivedData/beMQTTDemo/Build/Products/Debug-iphoneos/include
+-F/Volumes/RamDisk/beMQTTDemo/beMQTTDemo/DerivedData/beMQTTDemo/Build/Products/Debug-iphoneos
+-F/Volumes/RamDisk/beMQTTDemo/beMQTTDemo
+aarch64-apple-darwin16.4.0
+"4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)"
+SDK_PRODUCT_BUILD_VERSION=14C89
+14C89

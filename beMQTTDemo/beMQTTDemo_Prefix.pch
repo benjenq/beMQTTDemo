@@ -1,0 +1,21 @@
+//
+//  Prefix header for all source files of the 'myMQTTDemo' target in the 'myMQTTDemo' project
+//  myMQTTDemo
+//
+//  Created by Ben Cheng on 2016/10/9, Tainan City, Taiwan
+//  Copyright 2016 Ben Cheng. All rights reserved.
+//
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#import "MQTTString.h"
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import "beUIKitExtension.h"
+    #import "beHelper.h"
+#endif

@@ -1,0 +1,19 @@
+dependencies: \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/Code/ViewController/MQTTDemo/MQTTChatDemoView/MQTTChatDemoViewController.m \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/Code/ViewController/MQTTDemo/MQTTChatDemoView/MQTTChatDemoViewController.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/beMQTTClient.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTFramework.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTSession.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTMessage.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTPersistence.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTTransport.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTDecoder.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTSessionLegacy.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTSessionSynchron.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTCFSocketTransport.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTCFSocketDecoder.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTCFSocketEncoder.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTCoreDataPersistence.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTSSLSecurityPolicyTransport.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTSSLSecurityPolicy.h \
+  /Volumes/RamDisk/beMQTTDemo/beMQTTDemo/MQTTFramework.framework/Headers/MQTTSessionManager.h
